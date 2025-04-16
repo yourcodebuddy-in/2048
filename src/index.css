@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: burlywood;
+  background: linear-gradient(135deg, #e9e6f7 0%, #c5dafe 100%);
   font-family: "Inter", sans-serif;
   overscroll-behavior: contain;
 }
